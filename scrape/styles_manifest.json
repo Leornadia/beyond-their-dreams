@@ -1,0 +1,4169 @@
+{
+  "css_files": [],
+  "fonts_files": [
+    {
+      "url": "https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2",
+      "local": "fonts/8b736c04_avenir-lt-w01_85-heavy1475544.woff2",
+      "bytes": 17176
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2",
+      "local": "fonts/49627163_avenir-lt-w05_85-heavy.woff2",
+      "bytes": 26744
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2",
+      "local": "fonts/02de18b7_futura-lt-w01-book.woff2",
+      "bytes": 18428
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w01-light.woff2",
+      "local": "fonts/bc07b1ee_futura-lt-w01-light.woff2",
+      "bytes": 18212
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w05-light.woff2",
+      "local": "fonts/433c30c0_futura-lt-w05-light.woff2",
+      "bytes": 27056
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w01-light.woff2",
+      "local": "fonts/cb5dd791_helvetica-w01-light.woff2",
+      "bytes": 17348
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w02-light.woff2",
+      "local": "fonts/1deabd93_helvetica-w02-light.woff2",
+      "bytes": 22492
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2",
+      "local": "fonts/01b8128f_avenir-lt-w01_35-light1475496.woff2",
+      "bytes": 17216
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2",
+      "local": "fonts/44fe5b3b_avenir-lt-w05_35-light.woff2",
+      "bytes": 24560
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d18d0657-b3bd-4cd5-acd7-eab24ec6b49e/v1/bree-w01-thin-oblique.woff2",
+      "local": "fonts/e829f6ad_bree-w01-thin-oblique.woff2",
+      "bytes": 27684
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d18d0657-b3bd-4cd5-acd7-eab24ec6b49e/v1/bree-w05-thin-oblique.woff2",
+      "local": "fonts/ecb3fe66_bree-w05-thin-oblique.woff2",
+      "bytes": 43324
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2",
+      "local": "fonts/42d99379_din-next-w01-light.woff2",
+      "bytes": 20988
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2",
+      "local": "fonts/a8c77789_din-next-w02-light.woff2",
+      "bytes": 37024
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2",
+      "local": "fonts/46c70115_din-next-w10-light.woff2",
+      "bytes": 15504
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2",
+      "local": "fonts/8963aec6_brandon-grot-w01-light.woff2",
+      "bytes": 17388
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2",
+      "local": "fonts/15326786_brandon-grot-w05-light.woff2",
+      "bytes": 51992
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwjimrq1Q_.woff2",
+      "local": "fonts/c643d7a6_JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwjimrq1Q_.woff2",
+      "bytes": 8364
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8_Zwjimrq1Q_.woff2",
+      "local": "fonts/d4014fa0_JTUPjIg1_i6t8kCHKm459WxZcgvz8_Zwjimrq1Q_.woff2",
+      "bytes": 3756
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwjimrq1Q_.woff2",
+      "local": "fonts/82c93e0d_JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwjimrq1Q_.woff2",
+      "bytes": 9504
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwjimrq1Q_.woff2",
+      "local": "fonts/a9117d71_JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwjimrq1Q_.woff2",
+      "bytes": 12008
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZwjimrqw.woff2",
+      "local": "fonts/6483f770_JTUPjIg1_i6t8kCHKm459WxZcgvz_PZwjimrqw.woff2",
+      "bytes": 14028
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2",
+      "local": "fonts/2e9a1c00_JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2",
+      "bytes": 9452
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2",
+      "local": "fonts/7f54a8cb_JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2",
+      "bytes": 3656
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2",
+      "local": "fonts/671c2c22_JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2",
+      "bytes": 12100
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2",
+      "local": "fonts/757dd333_JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2",
+      "bytes": 14024
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2",
+      "local": "fonts/ba0e0be6_JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2",
+      "bytes": 8456
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2",
+      "local": "fonts/c4b902ce_JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2",
+      "bytes": 8004
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2",
+      "local": "fonts/38a8f3ec_JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2",
+      "bytes": 9236
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2",
+      "local": "fonts/4966dea1_JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2",
+      "bytes": 3540
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2",
+      "local": "fonts/a2730ddd_JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2",
+      "bytes": 11576
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2",
+      "local": "fonts/68d9a5c1_JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2",
+      "bytes": 13612
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2",
+      "local": "fonts/b350c79f_JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2",
+      "bytes": 8108
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2",
+      "local": "fonts/10398bb2_JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2",
+      "bytes": 9280
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2",
+      "local": "fonts/7e9d0c18_JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2",
+      "bytes": 3592
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+      "local": "fonts/00f62e43_JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+      "bytes": 11712
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+      "local": "fonts/b17b3dd7_JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+      "bytes": 13708
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2",
+      "local": "fonts/3dd2a643_OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2",
+      "bytes": 17036
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2",
+      "local": "fonts/d1e45818_OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2",
+      "bytes": 1956
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2",
+      "local": "fonts/569f1a71_nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2",
+      "bytes": 10180
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2",
+      "local": "fonts/e006165f_nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2",
+      "bytes": 4228
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2",
+      "local": "fonts/476eba59_nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2",
+      "bytes": 9480
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+      "local": "fonts/5f2c4ba3_nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+      "bytes": 16972
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2",
+      "local": "fonts/ea32ec51_nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2",
+      "bytes": 18152
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2",
+      "local": "fonts/28cbc407_nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2",
+      "bytes": 10368
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2",
+      "local": "fonts/7637545c_nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2",
+      "bytes": 11424
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2",
+      "local": "fonts/06ecfc18_nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2",
+      "bytes": 4356
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2",
+      "local": "fonts/8a8c47ee_nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2",
+      "bytes": 18436
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2",
+      "local": "fonts/dd47bbb7_nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2",
+      "bytes": 10760
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2",
+      "local": "fonts/db6958fa_nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2",
+      "bytes": 4248
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2",
+      "local": "fonts/9ef2b874_nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2",
+      "bytes": 10408
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2",
+      "local": "fonts/b185274c_nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2",
+      "bytes": 11424
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2",
+      "local": "fonts/20bc2263_nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2",
+      "bytes": 19072
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2",
+      "local": "fonts/2865a6bf_nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2",
+      "bytes": 11996
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2",
+      "local": "fonts/0a1903fa_nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2",
+      "bytes": 4516
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+      "local": "fonts/3fdaa3c4_pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+      "bytes": 5388
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+      "local": "fonts/124d0c48_pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+      "bytes": 7848
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2",
+      "local": "fonts/2b1ff2ce_pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2",
+      "bytes": 8628
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2",
+      "local": "fonts/89cb0140_pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2",
+      "bytes": 5824
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+      "local": "fonts/18c7330a_pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+      "bytes": 7900
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+      "local": "fonts/dd98b22c_pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+      "bytes": 5532
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2",
+      "local": "fonts/ee5486fd_pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2",
+      "bytes": 8676
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2",
+      "local": "fonts/bffce92c_pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2",
+      "bytes": 5900
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2",
+      "local": "fonts/7485103a_-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2",
+      "bytes": 12108
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2",
+      "local": "fonts/c66e423b_Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2",
+      "bytes": 12204
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2",
+      "local": "fonts/1e5e3705_h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2",
+      "bytes": 10424
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/rijG6I_IOXJjsH07UEo2mw.woff2",
+      "local": "fonts/bdcd0d83_rijG6I_IOXJjsH07UEo2mw.woff2",
+      "bytes": 10464
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2",
+      "local": "fonts/dae1b075_1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2",
+      "bytes": 27616
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2",
+      "local": "fonts/e278d71d_1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2",
+      "bytes": 25804
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2",
+      "local": "fonts/b834384d_1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2",
+      "bytes": 8052
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2",
+      "local": "fonts/9500a548_1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2",
+      "bytes": 21572
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2",
+      "local": "fonts/def70dcb_1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2",
+      "bytes": 44308
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
+      "local": "fonts/cc3e8c47_1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2",
+      "bytes": 42336
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2",
+      "local": "fonts/fb19de82_1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2",
+      "bytes": 22372
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2",
+      "local": "fonts/2267a4b5_1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2",
+      "bytes": 7648
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2",
+      "local": "fonts/d4f8cbac_1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2",
+      "bytes": 25548
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2",
+      "local": "fonts/36400d4f_1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2",
+      "bytes": 21688
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf",
+      "local": "fonts/5e669fd0_file.ttf",
+      "bytes": 71440
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+      "local": "fonts/193b5833_file.woff",
+      "bytes": 38168
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+      "local": "fonts/d02f65ff_file.woff2",
+      "bytes": 25596
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/ttf/file.ttf",
+      "local": "fonts/e33a3d4a_file.ttf",
+      "bytes": 62196
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/woff/file.woff",
+      "local": "fonts/f6b9a91d_file.woff",
+      "bytes": 34536
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/woff2/file.woff2",
+      "local": "fonts/28c4dc25_file.woff2",
+      "bytes": 22284
+    }
+  ],
+  "font_faces": [
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_c7130737212b4e92a1d015799",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "poppins-extralight",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2"
+      ]
+    },
+    {
+      "family": "poppins-extralight",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2"
+      ]
+    },
+    {
+      "family": "poppins-extralight",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/rijG6I_IOXJjsH07UEo2mw.woff2"
+      ]
+    },
+    {
+      "family": "poppins-extralight",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2"
+      ]
+    },
+    {
+      "family": "poppins",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCIIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QoFqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCAIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCkIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4SYFqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2"
+      ]
+    },
+    {
+      "family": "raleway",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/raleway/v26/1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_85-heavy1475544",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_85-heavy1475544",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "futura-lt-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "futura-lt-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "helvetica-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "helvetica-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "wf_c7130737212b4e92a1d015799",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_c7130737212b4e92a1d0157990036c33/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8_Zwjimrq1Q_.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwjimrq1Q_.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwjimrq1Q_.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwjimrq1Q_.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2"
+      ]
+    },
+    {
+      "family": "montserrat",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZwjimrqw.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "futura-lt-w01-book",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2"
+      ]
+    },
+    {
+      "family": "helvetica-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "helvetica-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/8eac109b-0fa9-42bf-a305-43e471e23779/v1/helvetica-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "bree-w01-thin-oblique",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/d18d0657-b3bd-4cd5-acd7-eab24ec6b49e/v1/bree-w05-thin-oblique.woff2"
+      ]
+    },
+    {
+      "family": "bree-w01-thin-oblique",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/d18d0657-b3bd-4cd5-acd7-eab24ec6b49e/v1/bree-w01-thin-oblique.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2"
+      ]
+    },
+    {
+      "family": "avenir-lt-w01_35-light1475496",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3L60P3NilAZTs.woff2"
+      ]
+    },
+    {
+      "family": "mr de haviland",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/mrdehaviland/v14/OpNVnooIhJj96FdB73296ksbOg3F60P3NilA.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2"
+      ]
+    },
+    {
+      "family": "din-next-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w05-light.woff2"
+      ]
+    },
+    {
+      "family": "brandon-grot-w01-light",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/fonts/v2/fe0edf38-314c-46d5-b570-a37546d197e4/v1/brandon-grot-w01-light.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "italic",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "400",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2"
+      ]
+    },
+    {
+      "family": "playfair display",
+      "weight": "700",
+      "style": "normal",
+      "src": [
+        "//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    },
+    {
+      "family": "wf_5dcf186d606c4852b16d7e15c",
+      "weight": "",
+      "style": "",
+      "src": [
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff2/file.woff2",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/woff/file.woff",
+        "https://static.wixstatic.com/ufonts/0fa2c2_5dcf186d606c4852b16d7e15cf386e4a/ttf/file.ttf"
+      ]
+    }
+  ],
+  "font_family_uses": [
+    [
+      "playfair display",
+      224
+    ],
+    [
+      "wfont_0fa2c2_5dcf186d606c4852b16d7e15cf386e4a",
+      140
+    ],
+    [
+      "brandon-grot-w01-light",
+      44
+    ],
+    [
+      "din-next-w01-light",
+      42
+    ],
+    [
+      "Arial",
+      28
+    ],
+    [
+      "Helvetica",
+      28
+    ],
+    [
+      "mr de haviland",
+      28
+    ],
+    [
+      "avenir-lt-w01_35-light1475496",
+      27
+    ],
+    [
+      "wf_5dcf186d606c4852b16d7e15c",
+      26
+    ],
+    [
+      "raleway",
+      26
+    ],
+    [
+      "montserrat",
+      21
+    ],
+    [
+      "avenir-lt-w01_85-heavy1475544",
+      13
+    ],
+    [
+      "futura-lt-w01-light",
+      13
+    ],
+    [
+      "poppins-extralight",
+      9
+    ],
+    [
+      "poppins",
+      8
+    ],
+    [
+      "helvetica-w01-light",
+      8
+    ],
+    [
+      "bree-w01-thin-oblique",
+      6
+    ],
+    [
+      "futura-lt-w01-book",
+      5
+    ],
+    [
+      "wf_c7130737212b4e92a1d015799",
+      2
+    ],
+    [
+      "wfont_0fa2c2_c7130737212b4e92a1d0157990036c33",
+      2
+    ]
+  ],
+  "color_counts": [
+    [
+      "#ffffff",
+      205
+    ],
+    [
+      "#00000000",
+      175
+    ],
+    [
+      "#000000",
+      154
+    ],
+    [
+      "#116dff",
+      98
+    ],
+    [
+      "#00000099",
+      41
+    ],
+    [
+      "#ba8963",
+      26
+    ],
+    [
+      "#00000080",
+      24
+    ],
+    [
+      "#000000@0.70",
+      16
+    ],
+    [
+      "#69382d@0.30",
+      16
+    ],
+    [
+      "#5f6360",
+      14
+    ],
+    [
+      "#080808",
+      14
+    ],
+    [
+      "#eeeeee",
+      14
+    ],
+    [
+      "#e0e0e0",
+      14
+    ],
+    [
+      "#ff4040",
+      14
+    ],
+    [
+      "#7fccf7",
+      14
+    ],
+    [
+      "#3899ec",
+      14
+    ],
+    [
+      "#fafafa",
+      14
+    ],
+    [
+      "#000000b3",
+      12
+    ],
+    [
+      "#e1e1e100",
+      12
+    ],
+    [
+      "#e7e7e700",
+      12
+    ],
+    [
+      "#ffffffcc",
+      12
+    ],
+    [
+      "#8f8f8f",
+      12
+    ],
+    [
+      "#808285",
+      12
+    ],
+    [
+      "#edf0f2",
+      12
+    ],
+    [
+      "#b0a986",
+      12
+    ],
+    [
+      "#000000@0.60",
+      11
+    ],
+    [
+      "#525252",
+      10
+    ],
+    [
+      "#5e5956",
+      9
+    ],
+    [
+      "#ceecea",
+      8
+    ],
+    [
+      "#738886",
+      7
+    ],
+    [
+      "#e2e2e2",
+      6
+    ],
+    [
+      "#a2d9d6",
+      5
+    ],
+    [
+      "#9ab5b2",
+      4
+    ],
+    [
+      "#000000@0.50",
+      4
+    ],
+    [
+      "#7a7a7a",
+      4
+    ],
+    [
+      "#293636",
+      3
+    ],
+    [
+      "#000000@0.00",
+      3
+    ],
+    [
+      "#516d6b",
+      2
+    ],
+    [
+      "#f6ebe4",
+      2
+    ],
+    [
+      "#e0e0e0@0.00",
+      2
+    ],
+    [
+      "#e8e8e8@0.00",
+      2
+    ],
+    [
+      "#ffffff@0.80",
+      2
+    ],
+    [
+      "#393939",
+      1
+    ],
+    [
+      "#69382d",
+      1
+    ],
+    [
+      "#373b4d",
+      1
+    ],
+    [
+      "#eaded6",
+      1
+    ],
+    [
+      "#dbdbdb",
+      1
+    ],
+    [
+      "#000000@0.40",
+      1
+    ],
+    [
+      "#555759",
+      1
+    ]
+  ]
+}

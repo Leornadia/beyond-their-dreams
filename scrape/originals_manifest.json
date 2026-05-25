@@ -1,0 +1,426 @@
+{
+  "count": 33,
+  "ok": 33,
+  "fail": 0,
+  "items": [
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_1d87d7f511eb4ad3a4bbe38994babd79~mv2.jpg",
+      "local": "images_originals/7465052a_0fa2c2_1d87d7f511eb4ad3a4bbe38994babd79~mv2.jpg",
+      "status": "ok 1454KB",
+      "alts": [
+        "pexels-anna-tarazevich-5629134_edited.jp"
+      ],
+      "sources": [
+        "faq",
+        "home"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_23f207e4f0df4e4ea0585ca931050d13~mv2.jpg",
+      "local": "images_originals/a3a73e83_0fa2c2_23f207e4f0df4e4ea0585ca931050d13~mv2.jpg",
+      "status": "ok 9619KB",
+      "alts": [
+        "KS-04643.jpg"
+      ],
+      "sources": [
+        "services"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_2c83e7856e8f4dd8af9e3e19d00e33f9~mv2.png",
+      "local": "images_originals/9ec8fd1a_0fa2c2_2c83e7856e8f4dd8af9e3e19d00e33f9~mv2.png",
+      "status": "ok 558KB",
+      "alts": [
+        "baby sleeping"
+      ],
+      "sources": [
+        "about"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_2fffe4a0d1634c9f98014a48d1eaf7a7~mv2.png",
+      "local": "images_originals/12f4f481_0fa2c2_2fffe4a0d1634c9f98014a48d1eaf7a7~mv2.png",
+      "status": "ok 61KB",
+      "alts": [
+        "BTD Text Only - Grey.png"
+      ],
+      "sources": [
+        "about",
+        "book-a-clarity-call",
+        "copy-of-full-support",
+        "courses-guides",
+        "faq",
+        "full-support",
+        "home",
+        "hourly-calls",
+        "mini-support",
+        "prenatal-consult",
+        "services",
+        "services-4",
+        "testimonials",
+        "two-week-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_3639351e1ad7442f89c6ded61a8ee9e1~mv2.jpg",
+      "local": "images_originals/a076af33_0fa2c2_3639351e1ad7442f89c6ded61a8ee9e1~mv2.jpg",
+      "status": "ok 317KB",
+      "alts": [
+        "pexels-william-fortunato-6392900_edited_"
+      ],
+      "sources": [
+        "courses-guides"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_420cc28539784f5c9acfd2034f82785d~mv2.jpg",
+      "local": "images_originals/446e8c75_0fa2c2_420cc28539784f5c9acfd2034f82785d~mv2.jpg",
+      "status": "ok 733KB",
+      "alts": [
+        "Trautman-Maternity-Session-May-2019-7645_edited.jpg"
+      ],
+      "sources": [
+        "courses-guides",
+        "prenatal-consult",
+        "services"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_44dfd114ed7d487e89fcab921ce6bb73~mv2.jpg",
+      "local": "images_originals/8576e5a9_0fa2c2_44dfd114ed7d487e89fcab921ce6bb73~mv2.jpg",
+      "status": "ok 677KB",
+      "alts": [
+        "KS-04505_edited.jpg"
+      ],
+      "sources": [
+        "courses-guides",
+        "two-week-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_49672138258e4334a8c14e0a7e20c2f1~mv2.jpg",
+      "local": "images_originals/f9a96b58_0fa2c2_49672138258e4334a8c14e0a7e20c2f1~mv2.jpg",
+      "status": "ok 1584KB",
+      "alts": [
+        "pexels-kristina-paukshtite-3242264_edite"
+      ],
+      "sources": [
+        "about"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_52fc734d96bc4dd78265c9b325508b39~mv2.jpg",
+      "local": "images_originals/9225b034_0fa2c2_52fc734d96bc4dd78265c9b325508b39~mv2.jpg",
+      "status": "ok 3039KB",
+      "alts": [
+        "pexels-lisa-2721581.jpg"
+      ],
+      "sources": [
+        "courses-guides"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_57d3fcc00295450fa9bb7690cdb06083~mv2.png",
+      "local": "images_originals/a2dd20c3_0fa2c2_57d3fcc00295450fa9bb7690cdb06083~mv2.png",
+      "status": "ok 22KB",
+      "alts": [
+        "BTD Logo 2024 (2).png"
+      ],
+      "sources": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_6349128aaa7e4b73bf13428b7f811ccb~mv2.png",
+      "local": "images_originals/3df025e6_0fa2c2_6349128aaa7e4b73bf13428b7f811ccb~mv2.png",
+      "status": "ok 61KB",
+      "alts": [
+        "BTD Logo - White.png"
+      ],
+      "sources": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_6792422f497d4ee3b80e0388ba9d76d9~mv2.jpg",
+      "local": "images_originals/feb6bf9b_0fa2c2_6792422f497d4ee3b80e0388ba9d76d9~mv2.jpg",
+      "status": "ok 8367KB",
+      "alts": [
+        "KS-04885.jpg"
+      ],
+      "sources": [
+        "services"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_6f5a00c914204b51935e85849a3ce4e4~mv2.jpg",
+      "local": "images_originals/1df4a763_0fa2c2_6f5a00c914204b51935e85849a3ce4e4~mv2.jpg",
+      "status": "ok 11882KB",
+      "alts": [
+        "KS-04339.jpg"
+      ],
+      "sources": [
+        "full-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_71652a6e5fd245868a6ec184097c39a9~mv2.jpg",
+      "local": "images_originals/67d03cdd_0fa2c2_71652a6e5fd245868a6ec184097c39a9~mv2.jpg",
+      "status": "ok 3265KB",
+      "alts": [
+        "Blake-131.jpg"
+      ],
+      "sources": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_779a1c8238ec4d05a04a4441c102e785~mv2.png",
+      "local": "images_originals/f9df904e_0fa2c2_779a1c8238ec4d05a04a4441c102e785~mv2.png",
+      "status": "ok 521KB",
+      "alts": [
+        "Baby sleeping"
+      ],
+      "sources": [
+        "about"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_930971129006474bb1d97289fceee463~mv2.jpg",
+      "local": "images_originals/1ec42843_0fa2c2_930971129006474bb1d97289fceee463~mv2.jpg",
+      "status": "ok 2905KB",
+      "alts": [
+        "pexels-william-fortunato-6393346.jpg"
+      ],
+      "sources": [
+        "mini-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_95466c225eb14906bcc368bc45a62d81~mv2.jpg",
+      "local": "images_originals/ab40d878_0fa2c2_95466c225eb14906bcc368bc45a62d81~mv2.jpg",
+      "status": "ok 929KB",
+      "alts": [
+        "Nicole-9.jpg"
+      ],
+      "sources": [
+        "services-4"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_965109db63104b9db1d950d81522d95e~mv2.webp",
+      "local": "images_originals/880566a1_0fa2c2_965109db63104b9db1d950d81522d95e~mv2.webp",
+      "status": "ok 77KB",
+      "alts": [
+        "66cectp1oind7vxu4mom.webp"
+      ],
+      "sources": [
+        "copy-of-full-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_9c23a462c33a47e0af19fef87f37ac73~mv2.jpg",
+      "local": "images_originals/b5f50d35_0fa2c2_9c23a462c33a47e0af19fef87f37ac73~mv2.jpg",
+      "status": "ok 602KB",
+      "alts": [
+        "CKP_4898.jpg"
+      ],
+      "sources": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_a5d5d131b4fd449badd5a5bb88162660~mv2.jpg",
+      "local": "images_originals/755fdc20_0fa2c2_a5d5d131b4fd449badd5a5bb88162660~mv2.jpg",
+      "status": "ok 598KB",
+      "alts": [
+        "CKP_5392.jpg"
+      ],
+      "sources": [
+        "services-4"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_a814def29a614381a6610b7209e321c9~mv2.jpg",
+      "local": "images_originals/668ba072_0fa2c2_a814def29a614381a6610b7209e321c9~mv2.jpg",
+      "status": "ok 1023KB",
+      "alts": [
+        "CKP_5579.jpg"
+      ],
+      "sources": [
+        "services-4"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_ac2f47660b404956afd01aa944a4de2b~mv2.jpg",
+      "local": "images_originals/2c61de1b_0fa2c2_ac2f47660b404956afd01aa944a4de2b~mv2.jpg",
+      "status": "ok 2302KB",
+      "alts": [
+        "pexels-ryutaro-tsukata-5220093.jpg"
+      ],
+      "sources": [
+        "services"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_ad5206c7a168456eaffff269db2962da~mv2.jpg",
+      "local": "images_originals/35961dbf_0fa2c2_ad5206c7a168456eaffff269db2962da~mv2.jpg",
+      "status": "ok 1212KB",
+      "alts": [
+        "pexels-anna-tarazevich-5629134_edited_edited.jpg"
+      ],
+      "sources": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_b0cedd79e4604756a2487ed1e9066177~mv2.jpg",
+      "local": "images_originals/69fe204f_0fa2c2_b0cedd79e4604756a2487ed1e9066177~mv2.jpg",
+      "status": "ok 384KB",
+      "alts": [
+        "CKP_5381.jpg"
+      ],
+      "sources": [
+        "services-4"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_c00ae825f995450abf6afad2273aca97~mv2.jpg",
+      "local": "images_originals/3cda776f_0fa2c2_c00ae825f995450abf6afad2273aca97~mv2.jpg",
+      "status": "ok 10465KB",
+      "alts": [
+        "KS-04955.jpg"
+      ],
+      "sources": [
+        "services"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_c41d89bd4f994fa69b201d48a9a1cd0f~mv2.jpg",
+      "local": "images_originals/1b4f4574_0fa2c2_c41d89bd4f994fa69b201d48a9a1cd0f~mv2.jpg",
+      "status": "ok 803KB",
+      "alts": [
+        "CKP_5147.jpg"
+      ],
+      "sources": [
+        "services-4"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_cc12ac99f5c946359a5855c1b0aa705e~mv2.jpg",
+      "local": "images_originals/388b0c5a_0fa2c2_cc12ac99f5c946359a5855c1b0aa705e~mv2.jpg",
+      "status": "ok 419KB",
+      "alts": [
+        "CKP_4929.jpg"
+      ],
+      "sources": [
+        "services-4"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_d19b9efad2154234a71105d0d282fede~mv2.jpg",
+      "local": "images_originals/17cdba7d_0fa2c2_d19b9efad2154234a71105d0d282fede~mv2.jpg",
+      "status": "ok 8312KB",
+      "alts": [
+        "KS-04224.jpg"
+      ],
+      "sources": [
+        "services"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_e8b1c8996c7546a996a4635c1ecf1f0f~mv2.jpg",
+      "local": "images_originals/eea30638_0fa2c2_e8b1c8996c7546a996a4635c1ecf1f0f~mv2.jpg",
+      "status": "ok 10536KB",
+      "alts": [
+        "KS-04913.jpg"
+      ],
+      "sources": [
+        "hourly-calls"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fa2c2_f867c16a71f6434993cf21cb9266d5d2~mv2.jpg",
+      "local": "images_originals/8a68884e_0fa2c2_f867c16a71f6434993cf21cb9266d5d2~mv2.jpg",
+      "status": "ok 603KB",
+      "alts": [
+        "CKP_4672.jpg"
+      ],
+      "sources": [
+        "book-a-clarity-call"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png",
+      "local": "images_originals/413d6ce8_4057345bcf57474b96976284050c00df.png",
+      "status": "ok 2KB",
+      "alts": [
+        "Facebook"
+      ],
+      "sources": [
+        "about",
+        "book-a-clarity-call",
+        "copy-of-full-support",
+        "courses-guides",
+        "faq",
+        "full-support",
+        "home",
+        "hourly-calls",
+        "mini-support",
+        "prenatal-consult",
+        "services",
+        "services-4",
+        "testimonials",
+        "two-week-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9e47c827082f40bdb54d0cd16c3b28f6.png",
+      "local": "images_originals/5e491a37_9e47c827082f40bdb54d0cd16c3b28f6.png",
+      "status": "ok 3KB",
+      "alts": [
+        "Pinterest"
+      ],
+      "sources": [
+        "about",
+        "book-a-clarity-call",
+        "copy-of-full-support",
+        "courses-guides",
+        "faq",
+        "full-support",
+        "home",
+        "hourly-calls",
+        "mini-support",
+        "prenatal-consult",
+        "services",
+        "services-4",
+        "testimonials",
+        "two-week-support"
+      ]
+    },
+    {
+      "url": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png",
+      "local": "images_originals/8a18c03a_e1aa082f7c0747168d9cf43e77046142.png",
+      "status": "ok 22KB",
+      "alts": [
+        "Instagram"
+      ],
+      "sources": [
+        "about",
+        "book-a-clarity-call",
+        "copy-of-full-support",
+        "courses-guides",
+        "faq",
+        "full-support",
+        "home",
+        "hourly-calls",
+        "mini-support",
+        "prenatal-consult",
+        "services",
+        "services-4",
+        "testimonials",
+        "two-week-support"
+      ]
+    }
+  ]
+}
