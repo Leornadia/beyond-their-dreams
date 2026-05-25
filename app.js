@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initForms();
   initVideoPlayer();
   checkAccordionCapabilities();
+  initScrollAnimations();
 });
 
 /* ==========================================================================
@@ -314,5 +315,34 @@ function checkAccordionCapabilities() {
         }
       });
     });
+  }
+}
+
+/* ==========================================================================
+   SCROLL-TRIGGERED ENTRANCE ANIMATIONS (Intersection Observer)
+   ========================================================================== */
+function initScrollAnimations() {
+  const animatedElements = document.querySelectorAll('.animate-on-scroll');
+
+  if ('IntersectionObserver' in window) {
+    const observerOptions = {
+      root: null,
+      rootMargin: '0px 0px -60px 0px', // Trigger shortly before crossing viewport
+      threshold: 0.1
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('in-view');
+          observer.unobserve(entry.target); // Trigger only once for slick entrance
+        }
+      });
+    }, observerOptions);
+
+    animatedElements.forEach(el => observer.observe(el));
+  } else {
+    // Graceful fallback for older browsers
+    animatedElements.forEach(el => el.classList.add('in-view'));
   }
 }
