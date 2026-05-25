@@ -253,17 +253,15 @@ p {
 }
 
 .header-logo {
-  width: 50px;
   height: 50px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid var(--color-primary-light);
+  width: auto;
+  object-fit: contain;
   transition: var(--transition-smooth);
 }
 
 .main-header.shrink .header-logo {
-  width: 40px;
-  height: 40px;
+  height: 38px;
+  width: auto;
 }
 
 .brand-text {
@@ -272,11 +270,7 @@ p {
 }
 
 .brand-text .title {
-  font-family: var(--font-serif);
-  font-weight: 700;
-  font-size: 1.25rem;
-  color: var(--color-primary-dark);
-  line-height: 1.1;
+  display: none;
 }
 
 .brand-text .subtitle {
@@ -417,23 +411,23 @@ p {
 
 /* Unique Page Banner Backgrounds */
 .banner-about {
-  background-image: url('assets/baby-sleeping.png');
+  background-image: url('assets/about-banner.jpg');
 }
 
 .banner-services {
-  background-image: url('assets/consult.jpg');
+  background-image: url('assets/services-banner.jpg');
 }
 
 .banner-courses {
-  background-image: url('assets/courses-cover.jpg');
+  background-image: url('assets/courses-banner.jpg');
 }
 
 .banner-testimonials {
-  background-image: url('assets/testimonials-cover.jpg');
+  background-image: url('assets/testimonials-banner.jpg');
 }
 
 .banner-faq {
-  background-image: url('assets/faq-cover.jpg');
+  background-image: url('assets/faq-banner.jpg');
 }
 
 .page-header-banner h1 {
@@ -1490,19 +1484,15 @@ th.popular-col::after {
 }
 
 .footer-logo {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid var(--color-primary-light);
+  height: 45px;
+  width: auto;
+  object-fit: contain;
   margin-bottom: 15px;
-  background-color: var(--bg-primary);
   transition: var(--transition-smooth);
 }
 
 .footer-logo:hover {
-  transform: scale(1.08) rotate(5deg);
-  border-color: var(--color-accent-gold);
+  transform: scale(1.05);
 }
 
 .footer-brand h3 {
