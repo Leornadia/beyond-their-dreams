@@ -1207,8 +1207,20 @@ th.popular-col::after {
   border-color: rgba(81, 109, 107, 0.1);
 }
 
+.course-card-banner {
+  height: 180px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: var(--transition-smooth);
+}
+
+.course-card:hover .course-card-banner {
+  transform: scale(1.04);
+}
+
 .course-card-header {
-  padding: 30px;
+  padding: 24px 30px 20px;
   background-color: var(--bg-secondary);
   position: relative;
 }
